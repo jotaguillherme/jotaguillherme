@@ -1,6 +1,6 @@
 ### Oi, sou João Guilherme  😅
 
- 🔭 Sou estudante de programação com foco em backend 🙃
+ 🔭 Sou estudante de programação full stack 🙃
 
 <a href="https://github.com/jotaguillherme/github-readme-stats">
   <img height=150em align="center" src="https://github-readme-stats.vercel.app/api?username=jotaguillherme&show_icons=true&theme=merko" />
